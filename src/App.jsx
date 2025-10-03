@@ -38,7 +38,7 @@ function App() {
   })
 
   // UI state
-  const [inputText, setInputText] = useState('https://printscribe.com')
+  const [inputText, setInputText] = useState('https://printscribe.ph')
   const [dotColor, setDotColor] = useState('#000000')
   const [bgColor, setBgColor] = useState('#FFFFFF')
   const [dotStyle, setDotStyle] = useState('rounded')

@@ -7,7 +7,7 @@ import './App.css'
 function App() {
   // QR Code configuration state
   const [qrConfig, setQrConfig] = useState({
-    data: 'https://printscribe.com',
+    data: 'https://printscribe.ph',
     width: 400,
     height: 400,
     margin: 10,

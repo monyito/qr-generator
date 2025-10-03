@@ -122,7 +122,7 @@ function App() {
   const handleTextChange = (e) => {
     const value = e.target.value
     setInputText(value)
-    updateConfig({ data: value || 'https://printscribe.com' })
+    updateConfig({ data: value || 'https://printscribe.ph' })
   }
 
   // Handle dot color change
